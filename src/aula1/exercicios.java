@@ -69,7 +69,7 @@ public class exercicios {
 		System.out.println("\nnúmero4 ");
 		n4 = olhe.nextInt();
 		calculo= (n1*n2)-(n3*n4);
-		System.out.println("Diferença"+calculo);
+		System.out.println("Diferença: "+calculo);
 		
 		
 		
